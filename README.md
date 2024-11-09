@@ -1,6 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!doctype html>
+<html lang="en"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -159,5 +158,6 @@
         <p>Thank you for visiting my page! Feel free to connect with me anytime.</p>
     </footer>
 
-</body>
-</html>
+
+
+</body></html>
